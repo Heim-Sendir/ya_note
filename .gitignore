@@ -17,6 +17,7 @@ __pycache__/
 
 static/
 media/
+tests/
 
 db.sqlite3
 
@@ -25,3 +26,5 @@ htmlcov/
 .coverage.*
 coverage.xml
 *.cover
+
+*MD
